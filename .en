@@ -1,0 +1,5 @@
+OPENROUTER_API_KEY="OPENROUTER_API_KEY"
+LLM_MODEL=openrouter/free
+QDRANT_URL=http://localhost:6333
+REDIS_URL=redis://localhost:6379
+DATABASE_URL=sqlite:///./app.db
